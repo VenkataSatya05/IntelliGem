@@ -52,3 +52,63 @@
 ## External APIs:
 
  - Google Gemini API (free API keys available per their documentation)
+
+# Prerequisites
+
+- Node.js v18 or higher
+
+- npm v8 or higher
+
+- MongoDB (local or cloud, e.g., MongoDB Atlas)
+
+- Google Gemini API key (optional, for AI responses)
+
+### 📋 Prerequisites
+
+- Python 3.8 or higher.
+- A webcam for image capture.
+- Git for repository cloning.
+
+### 🧱 Setting Up Your Development Environment
+
+1. **Install Git**:
+   - Download and install Git from [git-scm.com](https://git-scm.com/).
+
+2. **Clone the Repository**:
+   ```bash
+   git clone [https://github.com/VenkataSatya05/Attendance-System-Face-Recognition.git](https://github.com/VenkataSatya05/IntelliGem.git)
+
+3. **Backend SetUp**:
+   - Navigate to the Backend Repository
+   ```bash
+   cd backend
+
+   - Install dependencies:
+   ```bash
+   npm install
+
+   - Create a .env file in the backend directory:
+   ```bash
+   MONGODB_URI=your_mongodb_connection_string
+
+   - Start the backend server:
+   ```bash
+   npm start
+
+4. **Frontend Setup:**:
+   - Navigate to the frontend directory:
+   ```bash
+   cd frontend
+
+   - Install dependencies:
+   ```bash
+   npm install
+
+   - Start the development server:
+   ```bash
+   npm start
+
+5. **API Key Configuration**:
+   
+   - Obtain a free Google Gemini API key (see their documentation for details).
+   - Configure the API key in your backend if required by your chat.js router logic.
