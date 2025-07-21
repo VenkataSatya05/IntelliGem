@@ -23,7 +23,7 @@
 
 # Technologies Used  
 
-- Backend:
+## Backend:
 
  - Node.js
 
@@ -35,7 +35,7 @@
 
  - dotenv
 
-- Frontend:
+## Frontend:
 
  - React.js
 
@@ -49,6 +49,6 @@
 
  - Font Awesome for icons
 
-- External APIs:
+## External APIs:
 
  - Google Gemini API (free API keys available per their documentation)
