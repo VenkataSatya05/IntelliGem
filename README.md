@@ -80,14 +80,17 @@
 
 3. **Backend SetUp**:
    - Navigate to the Backend Repository
+     
    ```bash
    cd backend
 
-  - Install dependencies:
+   - Install dependencies:
+   
    ```bash
    npm install
 
-  - Create a .env file in the backend directory:
+   - Create a .env file in the backend directory:
+   
    ```bash
    MONGODB_URI=your_mongodb_connection_string
 
@@ -97,14 +100,17 @@
 
 4. **Frontend Setup:**:
    - Navigate to the frontend directory:
+
    ```bash
    cd frontend
 
   - Install dependencies:
+
    ```bash
    npm install
 
   - Start the development server:
+
    ```bash
    npm start
 
