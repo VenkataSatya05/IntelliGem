@@ -20,3 +20,35 @@
 - Environment variable management with dotenv.
 
 - Thread-based chat history persistence with MongoDB.
+
+# Technologies Used  
+
+-Backend:
+
+ -Node.js
+
+ -Express.js
+
+ -MongoDB (Mongoose)
+
+ -CORS
+
+ -dotenv
+
+-Frontend:
+
+ -React.js
+
+ -React Context API
+
+ -UUID (v1) for unique thread IDs
+
+ -ReactMarkdown with rehype-highlight for markdown and code highlighting
+
+ -react-spinners (ScaleLoader) for loading states
+
+ -Font Awesome for icons
+
+-External APIs:
+
+ -Google Gemini API (free API keys available per their documentation)
