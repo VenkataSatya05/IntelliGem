@@ -83,15 +83,15 @@
    ```bash
    cd backend
 
-   - Install dependencies:
+  - Install dependencies:
    ```bash
    npm install
 
-   - Create a .env file in the backend directory:
+  - Create a .env file in the backend directory:
    ```bash
    MONGODB_URI=your_mongodb_connection_string
 
-   - Start the backend server:
+  - Start the backend server:
    ```bash
    npm start
 
@@ -100,11 +100,11 @@
    ```bash
    cd frontend
 
-   - Install dependencies:
+  - Install dependencies:
    ```bash
    npm install
 
-   - Start the development server:
+  - Start the development server:
    ```bash
    npm start
 
