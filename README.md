@@ -23,32 +23,32 @@
 
 # Technologies Used  
 
--Backend:
+- Backend:
 
- -Node.js
+ - Node.js
 
- -Express.js
+ - Express.js
 
- -MongoDB (Mongoose)
+ - MongoDB (Mongoose)
 
- -CORS
+ - CORS
 
- -dotenv
+ - dotenv
 
--Frontend:
+- Frontend:
 
- -React.js
+ - React.js
 
- -React Context API
+ - React Context API
 
- -UUID (v1) for unique thread IDs
+ - UUID (v1) for unique thread IDs
 
- -ReactMarkdown with rehype-highlight for markdown and code highlighting
+ - ReactMarkdown with rehype-highlight for markdown and code highlighting
 
- -react-spinners (ScaleLoader) for loading states
+ - react-spinners (ScaleLoader) for loading states
 
- -Font Awesome for icons
+ - Font Awesome for icons
 
--External APIs:
+- External APIs:
 
- -Google Gemini API (free API keys available per their documentation)
+ - Google Gemini API (free API keys available per their documentation)
