@@ -82,7 +82,7 @@
    - Navigate to the Backend Repository
      
     ```bash
-    cd backend
+    cd backend```
 
    - Install dependencies:
    
