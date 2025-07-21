@@ -4,3 +4,19 @@
 <img width="1919" height="903" alt="Screenshot 2025-07-20 003352" src="https://github.com/user-attachments/assets/38ec7c70-8567-474f-8222-fafb2f44bc5c" />
 <img width="1919" height="904" alt="Screenshot 2025-07-20 002944" src="https://github.com/user-attachments/assets/1a716f39-9ff5-48e8-8311-61c6b336352a" />
 <img width="1695" height="697" alt="Screenshot 2025-07-20 003036" src="https://github.com/user-attachments/assets/104da4cd-b1c8-4a7a-87bd-71b5f1f25c27" />
+
+# Features
+
+- Create, switch, and delete chat threads.
+
+- Real-time AI-powered chat responses (e.g., via Google Gemini API).
+
+- Responsive UI with a sidebar for thread navigation and a chat window with markdown rendering.
+
+- Typewriter effect for AI responses using ReactMarkdown and rehype-highlight.
+
+- Loading animations with ScaleLoader for better UX.
+
+- Environment variable management with dotenv.
+
+- Thread-based chat history persistence with MongoDB.
