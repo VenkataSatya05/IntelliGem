@@ -76,7 +76,7 @@
 
 2. **Clone the Repository**:
    ```bash
-   git clone [https://github.com/VenkataSatya05/Attendance-System-Face-Recognition.git](https://github.com/VenkataSatya05/IntelliGem.git)
+   git clone https://github.com/VenkataSatya05/IntelliGem.git
 
 3. **Backend SetUp**:
    - Navigate to the Backend Repository
