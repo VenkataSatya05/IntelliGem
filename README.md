@@ -121,3 +121,52 @@
    
    - Obtain a free Google Gemini API key (see their documentation for details).
    - Configure the API key in your backend if required by your chat.js router logic.
+  
+3. Backend Setup
+Navigate to the backend repository:
+
+bash
+Copy
+Edit
+cd IntelliGem/backend
+Install dependencies:
+
+bash
+Copy
+Edit
+npm install
+Create a .env file in the backend directory and add your MongoDB URI:
+
+env
+Copy
+Edit
+MONGODB_URI=your_mongodb_connection_string
+Start the backend server:
+
+bash
+Copy
+Edit
+npm start
+4. Frontend Setup
+Navigate to the frontend directory:
+
+bash
+Copy
+Edit
+cd ../frontend
+Install dependencies:
+
+bash
+Copy
+Edit
+npm install
+Start the development server:
+
+bash
+Copy
+Edit
+npm start
+5. API Key Configuration
+Obtain a free Google Gemini API key from the Google AI Studio or refer to their official documentation.
+
+Configure the API key in your backend if required by your chat.js or any other relevant router logic.
